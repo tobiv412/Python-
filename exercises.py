@@ -4,7 +4,7 @@ apple = input("how many apples ?")
 
 weight = input("do you want the weight in kg or lbs ?")
 
-    if
+    if weight == "kg" or 
 
 
 
